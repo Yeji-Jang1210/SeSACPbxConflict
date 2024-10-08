@@ -51,9 +51,7 @@
 		B84A1F432CB4CCEF007C09CC /* SeSACPbxConfilct */ = {
 			isa = PBXGroup;
 			children = (
-				B84A1F442CB4CCEF007C09CC /* SeSACPbxConfilctApp.swift */,
-				B84A1F462CB4CCEF007C09CC /* ContentView.swift */,
-				B84A1F482CB4CCF0007C09CC /* Assets.xcassets */,
+				B84A1F522CB4D03E007C09CC /* Yeji */,
 				B84A1F4A2CB4CCF0007C09CC /* Preview Content */,
 			);
 			path = SeSACPbxConfilct;
@@ -65,6 +63,16 @@
 				B84A1F4B2CB4CCF0007C09CC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B84A1F522CB4D03E007C09CC /* Yeji */ = {
+			isa = PBXGroup;
+			children = (
+				B84A1F442CB4CCEF007C09CC /* SeSACPbxConfilctApp.swift */,
+				B84A1F462CB4CCEF007C09CC /* ContentView.swift */,
+				B84A1F482CB4CCF0007C09CC /* Assets.xcassets */,
+			);
+			path = Yeji;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
